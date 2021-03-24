@@ -1,0 +1,23 @@
+{
+  "store_id": 1227,
+  "name": "conferecartoes",
+  "domain": "conferecartoes.netlify.app",
+  "short_name": "conferecartoes",
+  "description": "conferecartoes",
+  "primary_color": "#32ADAD",
+  "secondary_color": "#393e46",
+  "bg_color": "#ffffff",
+  "theme": {
+    "bootswatch": "_",
+    "custom": "_"
+  },
+  "logo": "/img/uploads/logo.png",
+  "mini_logo": "",
+  "icon": "/img/icon.png",
+  "large_icon": "/img/large-icon.png",
+  "favicon": "/img/uploads/favicon.png",
+  "lang": "pt_br",
+  "currency": "BRL",
+  "currency_symbol": "R$",
+  "country_code": "BR"
+}
